@@ -7,5 +7,8 @@ import com.example.demo.service.StudentSrevice;
 @Service
 
 public class StudentServiceImple implements StudentService{
-
+    private final StudentRepository studentRepository;
+    public Student saveStudent(Student student){
+        return 
+    }
 }
