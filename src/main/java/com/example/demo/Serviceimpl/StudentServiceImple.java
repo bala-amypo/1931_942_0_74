@@ -14,7 +14,7 @@ public class StudentServiceImple implements StudentService {
     private StudentRepository studentRepository;
 
     @Override
-    public Student saveStudent(Student student) {
+    public Stuentity saveStudent(Stuentity student) {
         return studentRepository.save(student);
     }
 }
