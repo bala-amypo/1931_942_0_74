@@ -4,5 +4,5 @@ import org.springframework.sterotype.Service;
 
 @Service 
 public interface StudentService{
-
+    
 }
