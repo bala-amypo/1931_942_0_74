@@ -1,3 +1,5 @@
 package com.example.demo.Controller;
 
-public class Student
+public class StudentController {
+    
+}
